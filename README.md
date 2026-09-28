@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="./src/Amritanshu-banner.png" 
+    src="./Amritanshu-banner.png" 
     alt="Amritanshu Kumar GitHub Banner"
     width="100%"
   />
@@ -14,26 +14,74 @@
   Computer Science Engineer | Java Developer | Backend & Web Development
 </h3>
 
+<table align="center">
+<tr>
+
+<!-- Email -->
+<td>
+<a href="mailto:amritanshu319@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/D14836" width="35">
+</a>
+</td>
+
+<td>
+<a href="mailto:amritanshu319@gmail.com">
+<small>EMAIL</small><br>
+<b>amritanshu319@gmail.com</b>
+</a>
+</td>
+
+<!-- LinkedIn -->
+<td>
+<a href="https://www.linkedin.com/in/amritanshu-kr-sharma/">
+<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/8b9b73f5-491e-46fd-a958-cc0f9cdbdc30" />
+</a>
+</td>
+
+<td>
+<a href="https://www.linkedin.com/in/amritanshu-kr-sharma/">
+<small>LINKEDIN</small><br>
+<b>amritanshu-kr-sharma</b>
+</a>
+</td>
+
+<!-- GitHub -->
+<td>
+<a href="https://github.com/Amritanshu-Kr-Sharma">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="35">
+</a>
+</td>
+
+<td>
+<a href="https://github.com/Amritanshu-Kr-Sharma">
+<small>GITHUB</small><br>
+<b>Amritanshu-Kr-Sharma</b>
+</a>
+</td>
+
+<!-- Phone -->
+<td>
+<a href="tel:+918521653106">
+  <img width="35" height="35" alt="Phone" src="https://github.com/user-attachments/assets/6e889137-c007-497d-8052-f687f14fbefb" />
+</a>
+</td>
+
+<td>
+<a href="tel:+918521653106">
+  <small>(Call Me)</small><br>
+<b>+918521653106</b>
+</a>
+</td>
+
+</tr>
+</table>
+
 <!-- <p align="center">
   <a href="https://github.com/Amritanshu-Kr-Sharma">
     <img src="https://komarev.com/ghpvc/?username=Amritanshu-Kr-Sharma&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p> -->
 
-<p align="center">
-  <a href="https://github.com/Amritanshu-Kr-Sharma">
-    <img src="https://img.shields.io/badge/GitHub-Amritanshu--Kr--Sharma-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/amritanshu-kr-sharma/">
-    <img src="https://img.shields.io/badge/LinkedIn-Amritanshu%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:amritanshu319@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:+918521653106">
-  <img src="https://img.shields.io/badge/Phone-Call%20Me-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
-</a>
-</p>
 
 ## 🚀 What I'm Currently Working On
 
